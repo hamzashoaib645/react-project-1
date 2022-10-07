@@ -1,0 +1,179 @@
+.main {
+  display: flex;
+}
+.sidebar {
+  flex: 1.2;
+}
+.content {
+  border-top-left-radius: 40px;
+  background-color: var(--grey);
+  flex: 5;
+  height: 135rem;
+}
+
+.logo {
+  width: 8rem;
+  height: 103.57px;
+  margin: 3rem 3px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: var(--white);
+}
+* {
+  box-sizing: border-box;
+}
+:root {
+  --blue: #393a3d;
+  --white: #fff;
+  --grey: #e5e5e5;
+  --black1: #222;
+  --black2: #999;
+}
+body {
+  min-height: 100vh;
+  background-color: var(--blue);
+}
+.navigation {
+  position: absolute;
+  width: 20%;
+  background: var(--blue);
+  border-left: 10px solid var(--blue);
+  transition: 0.5;
+}
+.navigation ul {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding-left: 0.5rem !important;
+}
+.navigation ul li {
+  position: relative;
+  width: 100%;
+  display: flex;
+  list-style: none;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  font-size: 12px;
+}
+.nww:focus {
+  background: var(--grey);
+  border-radius: 30px 0 0 30px;
+}
+.icon2 {
+  margin-top: 0.5rem;
+}
+.title {
+  margin-left: 10px !important;
+}
+.icon {
+  margin-top: 5px;
+}
+.icon2 .class-room-icon {
+  margin-left: 4.4rem;
+  height: 1.3rem !important;
+}
+.icon2 .roster-icon {
+  margin-left: 2rem;
+  height: 1.3rem !important;
+}
+.icon2 .parent-icon {
+  margin-left: 3rem;
+  height: 1.3rem !important;
+}
+.nww:focus .icon,
+.nww:focus .icon2 {
+  color: red !important;
+}
+.navigation ul li:nth-child(1) {
+  pointer-events: none;
+}
+.navigation ul li a {
+  position: relative;
+  display: block;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  text-decoration: none;
+  color: var(--white);
+}
+.nww {
+  width: 18vw !important;
+}
+.nww:focus {
+  color: var(--blue);
+}
+.nww:focus {
+  color: var(--blue);
+}
+.navigation ul li a .icon {
+  position: relative;
+  top: 6px;
+  display: block;
+  min-width: 40px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+}
+.navigation ul li a .icon ion-icon {
+  font-size: 1.45rem;
+}
+.nww:focus:before {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: -15px;
+  background: transparent;
+  border-right: 20px solid var(--grey);
+  border-bottom: 20px solid var(--grey);
+  border-left: 20px solid transparent;
+  border-top: 20px solid transparent;
+  pointer-events: none;
+}
+.nww:focus:after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 35px;
+  background: transparent;
+  border-right: 20px solid var(--grey);
+  border-top: 20px solid var(--grey);
+  border-left: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+  pointer-events: none;
+}
+
+.Child-form {
+  background-color: #fff;
+  margin: 2rem;
+}
+.Child-form-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border-bottom: 1rem solid var(--grey);
+  height: 7rem;
+  border-radius: 3px;
+  align-items: center;
+}
+.Child-form-header h2 {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 20px;
+  color: #000000;
+  margin-left: 1rem;
+}
+.Child-form-header Button {
+  color: white;
+  background-color: #ea1f25;
+  margin: 1rem;
+  border-radius: 5px;
+  height: 3rem;
+}
+.Child-form-header Button:hover {
+  color: white;
+  background-color: #ea1f25;
+  opacity: 0.8;
+}

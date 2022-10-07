@@ -1,0 +1,155 @@
+.contact-heading{
+    background-color: white;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.contact-heading h3{
+    margin-left: 2rem;
+    
+}
+.contact-list-main{
+    background-color: white;
+    margin-top: 1rem;
+}
+.contact-main{
+    margin: 3rem;
+}
+.contact-searchBar{
+    margin-top: 2rem;
+}
+.contact-searchBar-input{
+    width: 12rem;
+    height:2rem;
+    border: 1px light #9E9E9E;
+    outline: none;
+}
+.contact-searchBar-input::placeholder{
+    font-size: 12px;
+}
+.contact-checkbox-btn{
+    display: flex;
+    border: 1px solid #9E9E9E;
+    width: 14rem;
+    height: 2.2rem;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+    margin: 3px;
+}
+.contact-checkbox-btn input{
+    width: 1.2rem;
+    height: 1.2rem;
+}
+.contact-checkbox-btn p{
+    font-size: 15px;
+    margin-left: 1rem;
+    color: #393A3D;
+}
+.contact-dropdown-btn{
+    display: flex;
+    border: 1px solid #9E9E9E;
+    width: 10rem;
+    align-items: center;
+    justify-content: center;
+    height: 2.2rem;
+    border-radius: 2px;
+    margin: 3px;
+}
+.contact-dropdown-btn p{
+    color: #393A3D;
+    font-size: 15px;
+}
+.contact-dropdown-btn svg{
+    margin-left: 1rem;
+}
+.contact-checkbox-dropdown{
+    display: flex;
+}
+.contact-searchBar{
+    display: flex;
+    justify-content: space-between;
+}
+.contact-list-head{
+    display: flex;
+    background-color: #00AEEF;
+    font-size: 14px;
+    height: 2rem;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 2px;
+}
+.contact-list-head p{
+    margin-left: 5px;
+    color: #fff;
+}
+.contact-img-text{
+    display: flex;
+}
+.contact-img-text img{
+    height: 3.2rem;
+    width: 3.2rem;
+    border-radius: 50%;
+}
+.contact-img-text p{
+    font-weight: bold;
+    margin-left: 0.5rem;
+}
+.contact-row-text p{
+    font-size: 14px;
+
+}
+.contact-add-btn{
+    color: white;
+    background-color: #EA1F25;
+    padding: 0.7rem 1.5rem;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.contact-view-btn{
+    color: white;
+    background-color: #9E9E9E;
+    padding: 0.7rem 1.2rem;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-left: 7rem;
+    margin-right: 8rem;
+}
+.contact-row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+}
+.contact-footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+.contact-footer-text p{
+    font-size: 24px;
+}
+.contact-previous-btn {
+    background-color: #00AEEF;
+    padding: 0.5rem 1.8rem;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    margin: 3px;
+    cursor: pointer;
+}
+.contact-next-btn {
+    background-color: #9E9E9E;
+    padding: 0.5rem 2.5rem;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+    margin: 3px;
+}

@@ -1,0 +1,75 @@
+.feature-container {
+  height: 40rem;
+  border-radius: 4px;
+  background-color: #fff;
+}
+.add-main {
+  display: flex;
+  /* justify-content: space-between; */
+}
+.add {
+  height: 9rem;
+  width: 4rem;
+  background-color: #ea1f25;
+  /* padding: 1rem; */
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.feature-main {
+  margin-left: 2rem;
+}
+.staff-li {
+  margin-top: 12rem;
+}
+.last {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+  line-height: 1rem;
+}
+.icon-arrow {
+  margin: 1rem;
+}
+.virtual-para {
+  background-color: #e5e5e5;
+  margin: auto 3rem;
+  line-height: 2rem;
+  padding-bottom: 2rem;
+}
+.virtual-para p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 40px;
+  margin-left: 4rem;
+}
+.virtual-para .more {
+  color: #00aeef;
+  text-decoration: none;
+  margin-left: 1rem;
+}
+.virtual-para h2 {
+  margin-left: 3.5rem;
+}
+.add-area {
+  color: #00aeef;
+  text-decoration: none;
+  margin-left: 4rem;
+}
+.confingure {
+  line-height: -1rem;
+  margin-top: -1rem;
+}
+.save-btn Button {
+  background-color: #ea1f25;
+  margin-left: 4rem;
+  width: 7rem;
+  color: #fff;
+  margin-top: 2rem;
+}
+.save-btn Button:hover {
+  background-color: #ea1f25;
+  margin-left: 4rem;
+  width: 7rem;
+  color: #fff;
+}

@@ -1,0 +1,20 @@
+.Card-Body {
+  display: flex;
+}
+.cardRow-container {
+  margin: 0px 2rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.CardRowTitle-container {
+  width: 7rem;
+  margin: auto 0px auto 1rem;
+}
+.cardRowTitle {
+  margin: 0px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}

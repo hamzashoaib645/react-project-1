@@ -1,0 +1,40 @@
+form{
+    width: 100%;
+    padding: 10px 10px;
+}
+form label{
+    font-size: 16px;
+    font-weight: bold;
+}
+form .inputs{
+    width: 30%;
+    padding: 10px;
+    margin: 10px 0;
+}
+form .inputs:focus{
+    outline: none;
+}
+form select{
+    width: 8%;
+    padding: 10px;
+    margin: 10px 0;
+}
+form .form-select{
+    margin: 0 20px;
+}
+form select:focus{
+    outline: none;
+}
+form select option{
+    font-size: 15px;
+    font-weight: bold;
+}
+form .form-radio input{
+    margin: 10px 12px;
+}
+form .input-file{
+    margin: 10px 0;
+}
+form .file-btn{
+    margin: 20px 0;
+}

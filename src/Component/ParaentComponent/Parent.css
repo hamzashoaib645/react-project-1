@@ -1,0 +1,13 @@
+.Parent11 {
+  background-color: white;
+  margin: auto 1.5rem;
+  font-size: 24px;
+  font-weight: bold;
+  border-radius: 10px 0 0px 0;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+.Parent11 h4 {
+  margin-left: 10px;
+}

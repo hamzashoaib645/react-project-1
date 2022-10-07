@@ -1,0 +1,41 @@
+.Entery {
+  width: 10vw;
+  height: 7rem;
+  background-color: #dcebf1;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  line-height: 1rem;
+  margin: 0.3rem;
+}
+.Entery:hover  {
+  background-color: red;
+  color: #fff;
+}
+.Entery:hover .css-i4bv87-MuiSvgIcon-root{
+  color: white;
+}
+.r-one {
+  display: flex;
+  padding: 2rem 1rem;
+}
+
+.entery-info {
+  margin-top: 1rem;
+}
+.Sub_icon .icon{
+  height: 2.5rem !important;
+  width: 2.5rem !important;
+  color: #EA1F25;
+}
+.Sub_icon:hover svg {
+  color: #fff !important;
+}
+.css-i4bv87-MuiSvgIcon-root {
+  font-size: 40px !important;
+  font-weight: 400 !important;
+}
+.White{
+  color: black;
+}

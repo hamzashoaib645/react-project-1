@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container a{
+    text-decoration: none;
+    color:black;
+}
+.link{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    width:90%;
+    background-color:white;
+    padding:0 20px;
+    border-radius:12px;
+    transition: 0.2s;
+    margin:10px 0;
+}
+.container .link:hover{
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+    transform: scale(1.005);
+}
+.link a a{
+    text-decoration: none;
+    padding:8px 15px;
+    border-radius: 8px;
+    border:2px green solid;
+    background-color:green;
+    color:white;
+}
+.link a a:hover{
+    background-color:white;
+    color:green;
+    
+}

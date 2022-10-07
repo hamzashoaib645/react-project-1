@@ -1,0 +1,36 @@
+.AddOn-main {
+  margin: 2rem;
+  background-color: white;
+  height: 60vh;
+}
+.AddOn-bell-icon {
+  background-color: #ea1f25;
+  height: 3.8rem;
+  width: 3.8rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.AddOn-icons-head {
+  display: flex;
+}
+.AddOn-main-head {
+  display: flex;
+  justify-content: space-between;
+}
+.AddOn-bell-text {
+  margin-left: 1rem;
+}
+.AddOn-head-arrow {
+  margin-top: 0.7rem;
+}
+.AddOn-section-two {
+  margin: 2rem 4rem;
+}
+.AddOn-section-two h6 {
+  margin: 1rem 0rem 0.3rem 1.5rem;
+}
+.AddOn-checkbox-text span {
+  margin-left: 0.3rem;
+  font-size: 14px;
+}

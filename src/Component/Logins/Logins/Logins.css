@@ -1,0 +1,75 @@
+.logins-main {
+  margin: 2rem;
+  background-color: white;
+  height: 100vh;
+}
+.logins-setting-icon {
+  background-color: #ea1f25;
+  height: 3.8rem;
+  width: 3.8rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.logins-icons-head {
+  display: flex;
+}
+.logins-main-head {
+  display: flex;
+  justify-content: space-between;
+}
+.logins-setting-text {
+  margin-left: 1rem;
+}
+.logins-head-arrow {
+  margin-top: 0.7rem;
+}
+.logins-section-two {
+  margin: 2rem 4rem;
+}
+.logins-section-two hr {
+  margin: 1.6rem 0rem;
+}
+.logins-text-one {
+  background-color: #fbcbcc;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+.logins-text-one p {
+  font-size: 14px;
+  margin-left: 1.2rem;
+}
+.logins-text-two {
+  height: 3.8rem;
+  background-color: #daf5ff;
+  display: flex;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+.logins-text-two p {
+  font-size: 14px;
+  margin-left: 1.2rem;
+}
+.admin-logins {
+  line-height: 1.2rem;
+}
+.admin-logins p {
+  font-size: 14px;
+}
+.classroom-logins {
+  line-height: 0.1rem;
+}
+.classroom-logins p {
+  font-size: 14px;
+}
+.password-reset {
+  display: flex;
+}
+.password-reset-text i {
+  font-size: 14px;
+}
+.login-lock-icon {
+  margin-top: 1rem;
+  margin-right: 1rem;
+}

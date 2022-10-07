@@ -1,0 +1,20 @@
+.Home{
+    padding: 2rem;
+}
+.list-bg-one{
+    background-color: #FFFFFF;
+    /* height: 5rem; */
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 0.5rem;
+}
+.list-bg-two{
+    background-color: #FFFEFE;
+    /* height: 17rem; */
+    margin-bottom: 0.5rem;
+}
+.list-bg-three{
+    /* height: 5rem; */
+    background-color: #FFFFFF;
+    margin-bottom: 0.5rem;
+}

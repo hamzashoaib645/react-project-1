@@ -1,0 +1,47 @@
+
+.user-setting i{
+    background-color: #EB1D26;
+    color: #fff;
+    padding: 15px;
+}
+.user-setting span{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 8px;
+}
+.user-header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.user-header .circle-down i{
+    color: #9DCCD9;
+}
+.user-heading{
+    margin-top: 50px
+}
+.form-user label{
+    font-size: medium;
+    font-weight: bold;
+}
+.form-user input{
+    width: 30%;
+    padding: 10px;
+    margin: 15px 0;
+}
+.form-user p{
+    font-weight: bold;
+    font-size: 15px;
+}
+.form-password a{
+    text-decoration: none;
+    color:rgb(20, 215, 225);
+    font-weight: bold;
+}
+.form-password Button{
+    background-color: #EB1D26;
+    margin: 40px 0;
+}
+.form-password Button:hover{
+    background-color: #EB1D26;
+}

@@ -1,0 +1,93 @@
+
+/* style of list head */
+.happychild7-head{
+    background-color: #fff;
+    padding: 5px;
+    margin: 15px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.happychild7-btn label{
+    font-weight: bold;
+    margin: 0 15px;
+}
+.happychild7-btn input{
+    margin-right: 10px;
+}
+.happychild7-btn span{
+    margin-right: 3rem;
+}
+.happychild7-btn Button{
+    background-color: #21F336 !important;
+    margin: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #fff;
+}
+.happychild7 Button i{
+    margin-top: 5px;
+}
+.happychild7-select{
+    display: flex;
+}
+.happychild7-select label{
+    font-weight: bold;
+    margin-right: 20px;
+}
+.happychild7-select select{
+    padding: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 1px solid #fff;
+}
+.happychild7-select select:focus{
+    outline: none;
+}
+.happychild7-select select option{
+    font-weight: bold;
+}
+.happychild7-main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.happychild7-icons i{
+    background-color: #EA1F25;
+    padding: 12px;
+    margin: 5px;
+    border-radius: 50%;
+}
+.happychild7-icons i svg{
+    margin-top: 2rem;
+}
+.happychild7-icons .arrow-icon{
+    background-color: #9E9E9E;
+}
+.happychild7-table {
+    width: 100%;
+    border-spacing: 0px;
+}
+.happychild7-table thead tr{
+    background-color: #00AEEF;
+    color: #fff;
+}
+.happychild7-table thead tr th{
+    padding:10px;
+}
+.happychild7-body{
+    background-color: #fff;
+    padding: 20px;
+    height: 10rem;
+}
+.happychild7-btn-end button{
+    background-color: #9E9E9E;
+    padding: 10px;
+    margin: 15px 0;
+    font-weight: bold;
+    cursor: pointer;
+    color: #fff;
+}

@@ -1,0 +1,125 @@
+.apply-header {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  margin: auto 1rem;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom: 2px solid #E5E5E5;
+}
+.apply-header h2 {
+  margin-left: 0.5rem;
+}
+.select-all {
+  margin: 0.4rem;
+}
+#Truck {
+  padding: 1rem;
+  background-color: white;
+}
+.apply-header Button {
+  background-color: #21f336;
+  margin-top: 0.6rem;
+  color: #fff;
+}
+.apply-header Button:hover {
+  background-color: #21f336;
+  margin-top: 2rem;
+}
+.jane {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  margin: auto 1rem;
+}
+.img-cirle {
+  display: flex;
+  padding: 1rem;
+}
+.img-cirle h4 {
+  text-align: center;
+  margin-top: 2.3rem;
+  margin-left: 1rem;
+}
+.girl-svg {
+  padding: 3rem;
+}
+.dot {
+  font-size: 1.5rem;
+  margin: 0.5rem;
+}
+.cars {
+  padding: 0.4rem;
+  border-radius: 4px;
+}
+
+.notes-container {
+  display: flex;
+  margin-left: 2rem;
+}
+.mainnumbers {
+  display: flex;
+  margin-top: -0.5rem;
+}
+.time {
+  margin-left: 2rem;
+  margin-top: 1rem;
+}
+.select {
+  padding-left: 10px;
+}
+.time-ser {
+  padding: 1rem;
+}
+.numbers {
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-left: 6px;
+  height: 3rem;
+  width: 3rem;
+  background-color: #00aeef;
+  text-align: center;
+}
+.numbers h3 {
+  margin-top: 18px;
+  color: #fff;
+  font-weight: 400;
+  font-size: 12px;
+}
+.now {
+  font-size: 14px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.notes input {
+  height: 170px;
+  width: 620px;
+  background-color: #fff;
+  outline: none;
+  border: none;
+}
+.notes {
+  margin-left: 3rem;
+}
+.time-main {
+  background-color: #e5e5e5;
+}
+.create {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  padding: 2rem;
+}
+.create Button {
+  background-color: #21f336;
+  padding: 1rem;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 4px;
+}
+.create Button:hover {
+  background-color: #21f336;
+  padding: 1rem;
+  color: #fff;
+  font-weight: 700;
+}

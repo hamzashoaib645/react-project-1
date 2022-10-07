@@ -1,0 +1,75 @@
+.AddOn-main1 {
+  margin: 2rem;
+  background-color: white !important;
+  /* padding: 1rem; */
+}
+.AddOn-bell-icon {
+  background-color: #ea1f25;
+  height: 3.8rem;
+  width: 3.8rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding: 0%;
+}
+.AddOn-icons-head {
+  display: flex;
+}
+.AddOn-main-head {
+  display: flex;
+  justify-content: space-between;
+}
+.AddOn-bell-text {
+  margin-left: 1rem;
+}
+.AddOn-head-arrow {
+  margin: 0.7rem;
+}
+.AddOn-section-two {
+  margin: 2rem 4rem;
+}
+.AddOn-section-two h6 {
+  margin: 1rem 0rem 0.3rem 1.5rem;
+}
+.AddOn-checkbox-text span {
+  margin-left: 0.3rem;
+  font-size: 14px;
+}
+.profile {
+  margin-left: 4rem;
+  line-height: 1rem;
+  margin-top: 2rem;
+  padding: 5px;
+}
+.profile input {
+  padding: 0.5rem;
+  width: 23rem;
+}
+.email {
+  line-height: 0.4rem;
+  margin-top: 3rem;
+}
+.profile hr {
+  margin-top: 4rem;
+}
+.password {
+  margin-left: 4rem;
+}
+.password a {
+  color: #00aeef;
+  text-decoration: none;
+}
+.change-btn Button {
+  background-color: #ea1f25;
+  margin-top: 3rem;
+  color: #fff;
+  margin-left: -2rem;
+}
+.change-btn Button:hover {
+  background-color: #ea1f25;
+  margin-top: 3rem;
+  color: #fff;
+}
+.change-btn {
+  padding: 2rem;
+}

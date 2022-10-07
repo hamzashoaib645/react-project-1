@@ -1,0 +1,10 @@
+.reports {
+  display: flex;
+  margin: auto 1rem;
+}
+
+.main-heading {
+  font-weight: 600;
+  margin-left: 5px;
+  margin: auto 1rem;
+}

@@ -1,0 +1,16 @@
+.reports-data {
+  background-color: #e5e5e5;
+  padding: 10px;
+  width: 93%;
+  border-radius: 3px;
+  margin: auto 1rem;
+}
+.reports-data h3 {
+  color: #00aeef;
+  font-size: 15px;
+}
+.reports-data p {
+  line-height: 17px;
+  font-size: 14px;
+  color: black !important;
+}

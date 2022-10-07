@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald&family=Readex+Pro&family=Roboto&display=swap');
+
+.form1-head{
+    margin: 40px;
+    font-family: 'Montserrat';
+}
+.form1-head-data{
+    display: flex;
+    flex-wrap: wrap;
+}
+.form-main, .form1-head{
+    background-color: #fff;
+    margin: 2rem;
+    padding: 1rem;
+}
+.head-icon{
+    display: flex;
+    flex-wrap: wrap;
+}
+.setting-icon{
+    background: #EA1F25;
+    height: 75px;
+    width: 4.5rem;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    
+
+
+}
+.setting-icon .icon{
+    color: #FFFFFF;
+    font-size: 35px;
+    
+}
+.head-data-para{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 20px;
+    margin-left: 40px;
+}
+.head-data-arrow{
+    color: #00AEEF;
+    margin: 15px;
+    font-size: 30px !important;
+    
+}
+.head-icon{
+    display: flex;
+    flex-wrap: wrap;
+}
+.form1-head-data{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+}
+.form-head{
+    margin-top: 40px;
+}
+.form-para{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 5px;
+}
+.form-head-input{
+    width: 25.3rem;
+    height: 35px;
+    outline: none;
+    border: 1px solid #9E9E9E;
+    border-radius: 2px;
+    
+}
+.form-head select{
+    width: 25.3rem;
+    height: 39px;
+    outline: none;
+    border: 1px solid #9E9E9E;
+    border-radius: 2px;
+    
+}
+.form-head small{
+    padding-top: 10px !important;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 14px;
+    line-height: 30px;
+}
+.form-head hr{
+    margin-top: 50px;
+}
+.form-secTwo{
+    display: flex;
+    flex-wrap: wrap;
+}
+.form-secTwo .div-one{
+    width: 20rem;
+}
+.form-secTwo div h5{
+    font-size: 16px;
+}
+.form-secTwo div div{
+    margin-top: 10px;
+}
+.form-secThree span{
+    font-size:14px ;
+    line-height: 30px;
+}
+.form-secThree input{
+    margin-right: 7px;
+}
+.form-secThree-highlight{
+    color: #EA1F25;
+}
+.form-secThree-highlight2{
+    color: #00AEEF;
+}
+.form-head button{
+    width: 7rem;
+    height: 35px;
+    margin-top: 35px;
+    background-color: #EA1F25;
+    border-radius: 4px;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+}
+
+
+
+@media screen and (max-width: 700px){
+    .form-head select{
+        width: 100%;
+        
+    }
+    .form-head-input{
+        width: 100%;
+        
+    }
+}

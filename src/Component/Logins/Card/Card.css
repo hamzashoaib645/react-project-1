@@ -1,0 +1,35 @@
+.card {
+  background-color: white;
+  height: 15rem;
+  display: flex;
+  margin: 1rem;
+}
+.card-setting {
+  height: 13rem;
+  width: 3rem;
+  background-color: #ea1f25;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.card-arrow {
+  display: flex;
+  justify-content: space-between;
+  width: 32vw;
+  height: 3rem;
+}
+.card-arrow h2 {
+  margin-left: 2.4rem;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.card-list1 {
+  line-height: 0.7rem;
+}
+
+.card-list1 p {
+  font-size: 15px;
+  margin-left: 2.4rem;
+  color: black !important;
+}

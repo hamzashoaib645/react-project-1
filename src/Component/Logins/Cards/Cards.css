@@ -1,0 +1,15 @@
+.arrow-icon-card {
+  margin: 1rem;
+  color: #00aeef;
+}
+
+.bg {
+  list-style-type: none;
+}
+.cards-main {
+  display: flex;
+}
+.login-linked{
+  text-decoration: none;
+  color: #000000;
+}

@@ -1,0 +1,121 @@
+.staff-head {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  margin: 3px 0;
+  margin-top: 20px;
+}
+.Staff-Main-container {
+  height: 130vh;
+}
+.staff-heading {
+  margin-left: 10px;
+}
+.staff-head .staff-btn Button {
+  background-color: #e91e25e4;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 5px;
+  text-align: center;
+  align-items: center;
+}
+
+/* style of staff sub head */
+.staff-sub-head {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  margin-top: 3px;
+}
+.staff-sub-head .staff-main1 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.staff-sub-head .staff-img img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.staff-sub-head .staff-main1 .staff-span {
+  font-weight: bold;
+  margin: 20px;
+}
+.staff-sub-head .staff-text {
+  color: #e91e25e4;
+  margin-top: 5px;
+}
+.staff-sub-head .staff-btns Button {
+  background-color: #01acf1;
+  margin: 8px 5px;
+  padding: 10px;
+  font-weight: bold;
+}
+.staff-sub-head .staff-btns .btn {
+  background-color: #20f738;
+  padding: 15px 25px !important;
+}
+.staff-sub-head .staff-btns .btn svg {
+  margin-right: 5px;
+}
+.staff-sub-head .staff-btns .btn:hover {
+  background-color: #20f738;
+}
+.staff-sub-head .staff-btns Button:hover {
+  background-color: #01acf1;
+}
+.children-head {
+  display: flex;
+  flex-wrap: wrap;
+}
+.children-icons {
+  background-color: #e9e8e8c9;
+  /* margin: 20px 15px;
+  padding: 1px 25px; */
+  height: 2.5rem;
+  border-radius: 9px;
+  margin-left: 20px;
+  margin-top: 1rem;
+}
+.children-icons span {
+  font-weight: bold;
+  margin:  25px;
+}
+.children-icons .icons {
+  margin: 10px 5px 10px 10px !important;
+  font-size: 0.5rem !important;
+}
+.children-btns Button {
+  background-color: #c3c3c3;
+  margin: 10px 5px;
+  font-weight: bold;
+  /* padding: 15px 25px; */
+}
+.children-btns Button:hover {
+  background-color: #c3c3c3;
+}
+.end-btns {
+  background-color: #fff;
+  padding: 10px;
+}
+.end-btns Button {
+  padding: 3px 50px;
+  margin: 5px 5px;
+  font-size: small;
+  font-weight: bold;
+  color: #000;
+  border: 2px solid #cecccce9;
+}
+.end-btns Button:hover {
+  border: 2px solid #d5d4d4d4;
+}
+.end-btns .icons {
+  font-size: 15px;
+  margin: 5px;
+  color: #E5E5E5;
+}
+.Wc-icon{
+  height: 2rem !important;
+}

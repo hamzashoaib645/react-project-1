@@ -1,0 +1,31 @@
+.list-head-one{
+    display: flex;
+}
+.list-head-one h2{
+    font-size: 1.8rem;
+    margin: 1rem;
+
+}
+.list-head-one p{
+    font-size: 1.2rem;
+    margin: 1.5rem 0.8rem;
+    color:#00aeef;
+}
+.list-head{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.3rem;
+    flex-wrap: wrap;
+}
+.list-head button{
+    padding: 12px 20px;
+    border: none;
+    border-radius: 3px;
+    margin: 1.4rem;
+    background-color: rgb(233, 59, 59);
+    color: #fff;
+    cursor: pointer;
+}
+.list-head button:active{
+    box-shadow: none;
+}

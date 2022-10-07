@@ -1,0 +1,21 @@
+.billing-reports {
+  line-height: 5px;
+  margin: auto 1rem;
+  padding-bottom: 25px;
+  padding: 7px 15px;
+  /* background: #fff; */
+}
+.billing-btn button {
+  color: #00aeef;
+  margin-top: 10px;
+  padding: 10px 25px;
+  border: 1px solid #00aeef;
+  border-radius: 2px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.billing-btn button:hover {
+  background-color: #00aeef;
+  color: #fff;
+}

@@ -1,0 +1,52 @@
+.SM-card-container {
+  margin: auto 0.5rem;
+}
+.card-list {
+  color: #fff !important;
+}
+.card-list-item {
+  margin-left: 0.5rem;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 30px;
+}
+.card-head,
+.card-body {
+  display: flex;
+}
+.card-head div,
+.card-body div {
+  flex: 1 !important;
+}
+.blank {
+  border-top-left-radius: 5px;
+  height: auto;
+}
+.All {
+  text-align: center;
+  color: #fff;
+  border-top-right-radius: 5px;
+  padding: 2rem auto !important;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-list-value {
+  text-align: center;
+  border: 1px solid #c4c4c4;
+  width: 6vw;
+}
+.card-list-value p {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px !important;
+  line-height: 30px;
+  color: #000000;
+}
+.card-list-value p.mt {
+  margin-top: 1rem;
+}

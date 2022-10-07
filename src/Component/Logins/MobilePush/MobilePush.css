@@ -1,0 +1,39 @@
+.MobilePush-main {
+  margin: 2rem;
+  background-color: white;
+  padding-bottom: 1rem;
+}
+.MobilePush-bell-icon {
+  background-color: #ea1f25;
+  height: 3.8rem;
+  width: 3.8rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.MobilePush-icons-head {
+  display: flex;
+}
+.MobilePush-main-head {
+  display: flex;
+  justify-content: space-between;
+}
+.MobilePush-bell-text {
+  margin-left: 1rem;
+}
+.MobilePush-head-arrow {
+  margin-top: 0.7rem;
+}
+.MobilePush-section-two {
+  margin: 2rem 4rem;
+}
+.MobilePush-checkbox-text {
+  margin-top: 0.5rem;
+}
+.MobilePush-checkbox-text span {
+  margin-left: 0.3rem;
+  font-size: 14px;
+}
+.MobilePush-section-two i {
+  color: #9e9e9e;
+}

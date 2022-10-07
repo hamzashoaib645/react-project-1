@@ -1,0 +1,62 @@
+.listTwo-one{
+    display: flex;
+    flex-wrap: wrap;
+}
+.listTwo-one img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+.listTwo-one p{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.listTwo-two p{
+    color: red;
+    font-size: 1.2rem;
+}
+.listTwoBtn-one{
+    padding: 0 15px;
+    display: flex;
+    background-color: #21F336;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 2px;
+}
+.listTwoBtn-two{
+    color: white;
+    padding: 0  px 18px;
+    border: none;
+    background-color: #00AEEF;
+    border-radius: 3px;
+    /* margin: 2px; */
+}
+
+.listTwo-three .power-icon{
+    color: white;
+    height: 2rem;
+}
+.listTwo-three{
+    display: flex;
+    flex-wrap: wrap;
+}
+.listTwo-three p{
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 0.3rem;
+    
+}
+.listTwo{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.9rem;
+    flex-wrap: wrap;
+}
+.month-icon{
+    height: 2rem;
+}

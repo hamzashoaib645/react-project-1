@@ -1,0 +1,71 @@
+.red {
+  background-color: #ea1f25 !important;
+}
+.blue {
+  background-color: #00aeef !important;
+}
+.dark {
+  background-color: #393a3d !important;
+}
+.yellow {
+  background-color: #e3d81f !important;
+}
+.green {
+  background-color: #21f336 !important;
+}
+.grey {
+  background-color: #c4c4c4;
+}
+
+.circleIcon {
+  border: 2px solid black;
+  border-radius: 50px;
+  height: 1rem !important;
+  width: 1rem !important;
+}
+.card-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.Staff-management {
+  display: flex;
+  flex-wrap: wrap;
+}
+.Staff-management-left {
+  background-color: #fff;
+  margin: 1rem;
+  width: 50vw;
+}
+.staff-management-header {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 1rem;
+}
+.staff-management-header h2 {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+  color: #000000;
+}
+.staff-management-header a {
+  color: #21f336 !important;
+  margin: auto 0rem;
+}
+.staff-management-body {
+  display: flex;
+  margin: 1rem auto;
+}
+.Attdencebtn{
+  margin-left: 0.5rem;
+}
+.Attdencebtn Button {
+  font-size: 10px !important;
+}
+.Link{
+  text-decoration: none;
+}
+

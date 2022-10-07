@@ -1,0 +1,40 @@
+.feature-container1 {
+  height: 11rem;
+  margin: auto 2.4rem auto 1rem;
+  background-color: white;
+  border-radius: 4px;
+}
+.add-main {
+  display: flex;
+  /* justify-content: space-between; */
+}
+.add {
+  height: 9rem;
+  width: 4rem;
+  background-color: #ea1f25;
+  /* padding: 1rem; */
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.feature-main {
+  margin-left: 2rem;
+}
+.staff-li {
+  margin-top: 12rem;
+}
+.last {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+  line-height: 1rem;
+}
+.icons {
+  margin-top: 2rem;
+}
+.icons svg {
+  margin-right: 1rem;
+}
+.icon-arrow {
+  margin: 1rem;
+}

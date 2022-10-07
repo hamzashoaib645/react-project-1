@@ -1,0 +1,36 @@
+.list-row{
+    display: flex;
+    justify-content: space-between;
+    margin: 0.5rem;
+}
+.list-row h2{
+    margin: 1rem;
+}
+.circles{
+    background-color: #EAEBEF !important;
+    margin: 0.5rem !important;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.list-row div{
+    display: flex;
+    height: 2rem;
+    width: 12rem;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    margin: 1.3rem;
+    border-radius: 5px;
+}.list-row div div p{
+    font-size: 1.4rem;
+}
+.circle-green{
+    color: #21F336;
+}
+.circle-grey{
+    color: #9E9E9E;
+}
+.circle-trans{
+    
+    color: black;
+}

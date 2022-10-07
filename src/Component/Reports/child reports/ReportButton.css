@@ -1,0 +1,19 @@
+
+.Report_btn button {
+    font-size: 14px;
+    background: #E5E5E5;
+    border: none; 
+    width: 16vw;
+    height: 3rem;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+.Report_btn button:hover {
+    background-color: #00AEEF;
+    color: #fff;
+}
+.Report_btn button:focus {
+    background-color: #00AEEF;
+    color: #fff;
+}

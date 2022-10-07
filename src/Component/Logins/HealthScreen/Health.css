@@ -1,0 +1,68 @@
+.health-container {
+  background-color: white;
+  margin: 1rem;
+}
+.health {
+  height: 6rem;
+  width: 5rem;
+  background-color: #ea1f25;
+}
+.health-icon {
+  padding: 1.5rem;
+}
+.health-header {
+  display: flex;
+}
+.screening h2 {
+  margin-left: 1rem;
+  margin-top: 2rem;
+}
+.enable-staff {
+  display: flex;
+}
+.enable-staff h4 {
+  margin-left: 1rem;
+  margin-top: 2rem;
+}
+.enable-staff input {
+  margin-top: 1.6rem;
+}
+.enable-container {
+  padding: 2rem;
+  margin-left: 3rem;
+  line-height: 0.2rem;
+}
+.enable-container-2 {
+  padding: 2rem;
+  margin-left: 3rem;
+  line-height: 0.2rem;
+  margin-top: -4rem;
+}
+.question {
+  margin-left: 6rem;
+}
+.over {
+  border: 1px solid black;
+  height: 20rem;
+  overflow: scroll;
+  margin: auto 2.5rem;
+}
+.over p {
+  line-height: 2rem;
+  margin-left: 2rem;
+}
+.save Button {
+  background-color: red;
+  margin-left: 4.5rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  height: 3rem;
+  color: #fff;
+}
+.save Button:hover {
+  background-color: red;
+  margin-left: 4.5rem;
+  margin-top: 2rem;
+  height: 3rem;
+  color: #fff;
+}

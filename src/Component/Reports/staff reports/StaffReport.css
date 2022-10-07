@@ -1,0 +1,20 @@
+.staff-reports {
+  background-color: #ffff;
+  display: flex;
+  margin: auto 1rem;
+  margin-top: 15px;
+  padding: 10px 15px;
+  /* justify-content: space-around; */
+  line-height: 5px;
+}
+.staff-desc {
+  width: 50%;
+}
+.staff-buttons {
+  margin-top: 15px;
+  display: flex;
+  cursor: pointer;
+}
+.btn-2 {
+  padding-left: 15px;
+}

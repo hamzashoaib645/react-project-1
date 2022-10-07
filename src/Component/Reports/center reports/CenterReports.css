@@ -1,0 +1,22 @@
+.center-reports {
+  background-color: #ffff;
+  line-height: 5px;
+  padding: 7px 15px;
+  padding-bottom: 25px;
+  margin-top: 10px;
+  margin-left: 1rem;
+  margin-right: 2rem;
+  /* width: 74.5%; */
+  /* border-radius: 5px !important; */
+}
+.center-tabs {
+  display: flex;
+}
+.center-tabs-two,
+.center-tabs-three,
+.center-tabs-four,
+.center-tabs-five,
+.center-tabs-six {
+  display: flex;
+  margin-top: 10px;
+}

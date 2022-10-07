@@ -1,0 +1,46 @@
+.stuff-container{
+    padding: 2rem;
+
+}
+.staff-form{
+    height: 100vh;
+}
+.staff-form .stuff-heading{
+    background-color: #fff;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+}
+.staff-main{
+background: #CDD0CD;
+border-radius: 4px;
+padding: 2rem;
+}
+.staff-main p{
+    padding: 1rem;
+}
+.staff-first{
+    padding: 1rem;
+}
+.staff-last{
+    padding: 1rem;
+}
+.staff-last input, .staff-first input{
+    width: 20rem;
+    height: 2rem;
+}
+.staff-btn Button{
+    width: 119px;
+    height: 50px;
+    background: #00AEEF;
+    border-radius: 4px;
+    color: #fff;
+    margin-left: 1rem;
+}
+.staff-btn Button:hover{
+    width: 119px;
+    height: 50px;
+    background: #00AEEF;
+    border-radius: 4px;
+    color: #fff;
+}

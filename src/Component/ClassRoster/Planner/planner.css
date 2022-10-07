@@ -1,0 +1,45 @@
+.section-1 {
+  margin: auto 40px;
+  border-radius: 13px 13px 0px 0px;
+  margin-top: 20px;
+}
+
+.journal {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 20px;
+  background-color: #fff;
+  margin: 0px;
+  padding: 1rem;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.activi {
+  background-color: #fff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0px;
+  margin-top: 3px;
+  padding: 1rem;
+}
+.BTN {
+  background-color: #fff;
+  height: 110px;
+  padding: 1rem;
+}
+.BTN button {
+  margin-top: 47px;
+  padding: 7px 55px;
+  color: #fff;
+  background-color: #21f336;
+  border: none;
+  border-radius: 4px;
+  margin-left: 28px;
+  font-size: 14px;
+  line-height: 20px;
+}

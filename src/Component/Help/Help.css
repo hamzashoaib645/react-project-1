@@ -1,0 +1,36 @@
+.help{
+    height: 600px;
+    background-image: url("img/bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: center;
+}
+.help-container{
+    background: #00AEEFB5;
+    height: 37.5rem;
+    width: 55rem;
+    margin: auto auto;
+
+}
+.file-smile{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.file-smile input{
+    width: 20rem;
+    padding: 5px;
+    margin-top: 2rem;
+}
+.smile-para{
+    color: white;
+    line-height: 1rem;
+}
+.search-now Button{
+    background-color: #EA1F25;
+    color: white;
+    margin-top: 2rem;
+}

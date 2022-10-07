@@ -1,0 +1,47 @@
+.cr-reports {
+  padding: 1px 8px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  position: relative;
+  left: 2.5%;
+}
+.accordion {
+  width: 37vw;
+  display: flex;
+}
+.accordion-1 Button{
+  color: white;
+  width: 18vw;
+  height: 3rem;
+  display: flex;
+  justify-content: space-between;
+}
+.accordion-1 p{
+  font-size: 14px;
+  margin: 1.2rem 0rem 1.2rem 1rem;
+}
+.margin{
+  margin-left: 1rem !important;
+}
+.Arrow{
+  transform: rotate(-90deg);
+  margin-left: 1rem;
+}
+.dropdown1 {
+  display: flex;
+  width: 500px;
+}
+.dropdown-2 {
+  padding: 0px 10px;
+}
+.css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root {
+  min-height: 10px !important;
+  height: 30px;
+  color: #fff !important;
+  border-radius: 5px !important;
+  background-color: #ea1f25 !important;
+}
+.css-ahj2mt-MuiTypography-root {
+  font-size: 10px !important;
+}

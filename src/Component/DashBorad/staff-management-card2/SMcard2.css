@@ -1,0 +1,27 @@
+.SMcard2-container {
+  margin: auto 0.5rem;
+}
+.SMcard2-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  height: 3rem;
+  width: 7vw;
+}
+.SMcard2-header p {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 20px;
+}
+.SMcard2-body {
+  text-align: center;
+  border: 1px solid #c4c4c4;
+  height: 8.5rem;
+  width: 7vw;
+}

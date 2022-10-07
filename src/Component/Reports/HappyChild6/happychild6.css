@@ -1,0 +1,85 @@
+
+/* style of list head */
+.happychild6-head{
+    background-color: #fff;
+    padding: 5px;
+    margin: 15px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.happychild6-btn label{
+    font-weight: bold;
+    margin: 0 15px;
+}
+.happychild6-btn input{
+    margin-right: 10px;
+}
+.happychild6-btn span{
+    margin-right: 3rem;
+}
+.happychild6-btn Button{
+    background-color: #21F336 !important;
+    margin: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #fff;
+}
+.happychild6 Button i{
+    margin-top: 5px;
+}
+.happychild6-select{
+    display: flex;
+}
+.happychild6-select label{
+    font-weight: bold;
+    margin-right: 20px;
+}
+.happychild6-select select{
+    padding: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 1px solid #fff;
+}
+.happychild6-select select:focus{
+    outline: none;
+}
+.happychild6-select select option{
+    font-weight: bold;
+}
+.happychild6-main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.happychild6-icons i{
+    background-color: #EA1F25;
+    padding: 12px;
+    margin: 5px;
+    border-radius: 50%;
+}
+.happychild6-icons i svg{
+    margin-top: 2rem;
+}
+.happychild6-icons .arrow-icon{
+    background-color: #9E9E9E;
+}
+.happychild6-table {
+    width: 100%;
+    border-spacing: 0px;
+}
+.happychild6-table thead tr{
+    background-color: #00AEEF;
+    color: #fff;
+}
+.happychild6-table thead tr th{
+    padding:10px;
+}
+.happychild6-body{
+    background-color: #fff;
+    padding: 20px;
+    height: 10rem;
+}

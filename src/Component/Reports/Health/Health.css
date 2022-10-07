@@ -1,0 +1,157 @@
+
+.health-head{
+    background-color: #fff;
+    padding: 5px;
+    margin: 15px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.health-btn label{
+    font-weight: bold;
+    margin: 0 15px;
+}
+.health-btn input{
+    margin-right: 10px;
+}
+.health-btn span{
+    margin-right: 3rem;
+}
+.health-btn Button{
+    background-color: #21F336 !important;
+    margin: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #fff;
+}
+.health-btn Button i{
+    margin-top: 5px;
+}
+.health-select{
+    display: flex;
+}
+.health-select label{
+    font-weight: bold;
+    margin-right: 20px;
+}
+.health-select select{
+    padding: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 1px solid #fff;
+}
+.health-select select:focus{
+    outline: none;
+}
+.health-select select option{
+    font-weight: bold;
+}
+.health-main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.health-icons i{
+    background-color: #EA1F25;
+    padding: 12px;
+    margin: 5px;
+    border-radius: 50%;
+}
+.health-icons i svg{
+    margin-top: 2rem;
+}
+.health-icons .arrow-icon{
+    background-color: #9E9E9E;
+}
+
+.Health-dates{
+    display: flex;
+    justify-content: space-between;
+    background-color: #00AEEF;
+    align-items: center;
+    height: 2rem;
+    border-radius: 3px;
+}
+.Health-dates p{
+    font-size: 14px;
+    margin: 1rem;
+    color: #fff;
+}
+.Health-days p{
+    margin: 0rem 5rem 0 0;
+    font-size: 14px;
+    color: #fff;
+}
+.Health-days{
+    display: flex;
+}
+.bg-white{
+    background-color: #fff;
+    height: 7rem;
+}
+.health-checkbox{
+    margin: 2rem;
+}
+.health-checkbox div input{
+   margin-top: 1rem;
+    margin-right: 0.7rem;
+    height: 1.5rem;
+    width: 1.5rem;
+    float: left;
+}
+.health-checkbox div p{
+   font-size: 14px;
+    float: left;    
+}
+.health-checkbox div{
+    display: block;
+    float: left;
+    width: auto;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+.health-checkbox_Inner{
+	width:100% !important;
+}
+.NoteWidth{
+	width:100% !important;
+	float:left;
+	margin-left:1rem;
+}
+.Textarea_call{
+	width:100% !important;
+	margin-left:1rem;
+}
+.health-checkbox p{
+    margin-top: 1.2rem;
+    margin-left: 1rem;
+    font-size: 20px;
+}
+.health-checkbox-main{
+    display: flex;
+    background-color: #E6E5E2;
+
+}
+.health-checkbox-two{
+    margin-top: 3rem;
+}
+.health-button{
+    margin-top: 1rem;
+}
+.health-button button{
+    display: flex;
+    background-color: #C4C4C4;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    height: 2.5rem;
+    border-radius: 2px;
+}
+.health-button button p{
+    margin-left: 1rem;
+    font-size: 14px;
+    color: #fff;
+}
